@@ -1,20 +1,25 @@
 <h1 align="center">
-  Semana <do Zero ao Programador Contratado/> | Dev em Dobro
+  Semana do Zero ao Programador Contratado
 </h1>
 
-<p align="center">
-  
-</p>
+<h2 align="center">
+  <img src="./assets/logo.png" width="250px">
+</h2>
 
 <p align="center">
+  <a href="#">🔗 Live Preview</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">🖥️ Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-tecnologias">🚀 Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-license">📝 License</a>
 </p>
 
-## 💻 Projetos
+<p align="center">
+  
+</p>
 
-Projeto para o evento Semana do Zero ao Programador Contratado do Dev em Dobro.
+## 💻 Projeto
+
+Projeto para o evento "Semana do Zero ao Programador Contratado" da Dev Em Dobro.
 
 ## 🚀 Tecnologias
 
